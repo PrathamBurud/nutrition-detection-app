@@ -3,7 +3,7 @@
 (AI-Based Food Nutrition Estimator)
 
 **LINK:**
-*(Add your deployed link here later!)*
+*nutrilens-ai.up.railway.app*
 
 ## Overview
 This project is an AI-based application that estimates food calories and nutrient composition (proteins, carbohydrates, fats, etc.) from images.
