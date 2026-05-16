@@ -6,7 +6,7 @@
 *(Add your deployed link here later!)*
 
 ## Overview
-This project is an AI-based application that estimates food calories and nutrient composition (proteins, carbohydrates, fats, etc.) from images using advanced Chain-of-Thought reasoning.
+This project is an AI-based application that estimates food calories and nutrient composition (proteins, carbohydrates, fats, etc.) from images.
 
 ## Features
 - Image-based food analysis
